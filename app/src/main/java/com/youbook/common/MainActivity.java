@@ -1,4 +1,4 @@
-package youbook.victor.com.youbook.common;
+package com.youbook.common;
 
 import android.app.Activity;
 import android.os.Bundle;

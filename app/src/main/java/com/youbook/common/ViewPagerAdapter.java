@@ -1,4 +1,4 @@
-package youbook.victor.com.youbook.common;
+package com.youbook.common;
 
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
@@ -10,7 +10,7 @@ import java.util.List;
  * ViewPager适配器，用来绑定数据和View
  * Created by Victor on 2015/3/23.
  */
-public class ViewPagerAdapter extends PagerAdapter{
+public class ViewPagerAdapter extends PagerAdapter {
     //界面列表
     private List<View> views;
 

@@ -1,4 +1,4 @@
-package youbook.victor.com.youbook.splash;
+package com.youbook.splash;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -11,13 +11,14 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
+import com.youbook.R;
+import com.youbook.common.BaseActivity;
+import com.youbook.common.MainActivity;
+import com.youbook.common.ViewPagerAdapter;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import youbook.victor.com.youbook.R;
-import youbook.victor.com.youbook.common.BaseActivity;
-import youbook.victor.com.youbook.common.MainActivity;
-import youbook.victor.com.youbook.common.ViewPagerAdapter;
 
 /**
  * Created by Victor on 2015/3/21.
