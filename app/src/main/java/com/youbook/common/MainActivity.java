@@ -2,9 +2,7 @@ package com.youbook.common;
 
 import android.app.Activity;
 import android.os.Bundle;
-
-import youbook.victor.com.youbook.R;
-
+import com.youbook.R;
 
 public class MainActivity extends Activity {
 
